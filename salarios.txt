@@ -1,0 +1,6 @@
+alexandre       2000
+anderson        4500
+antonio         10000
+carlos          6200
+cesar           1400
+rosemary        980
