@@ -4,13 +4,13 @@ channels:
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
   - pandas
-  - partd
+  - matplotlib
   - bokeh
-  - dask
   - basemap
   - ipyleaflet
+#  - psutil
+#  - toolz
+#  - dill
+#  - partd
+#  - dask
