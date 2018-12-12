@@ -6,9 +6,9 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - bokeh
-  - basemap
-  - ipyleaflet
+#  - bokeh
+#  - basemap
+#  - ipyleaflet
 #  - psutil
 #  - toolz
 #  - dill
